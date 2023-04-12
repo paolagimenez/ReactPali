@@ -1,0 +1,57 @@
+
+[{
+    "IdPersona":              "1",
+    "PerRSoc":                "Paola Giménez",
+    "Alias":                  "PAali",
+    "Domicilio":             "Tucumán",
+    "DomicilioNro":           "93B",
+    "IdLocalidad":            "2132",
+    "Telefono":               "34127382987",
+    "IdDocumento":            "1",
+    "NroDocumento":           "26770025",
+    "IdIva":                  "1",
+    "IdIngBrutos":            "2",
+    "Observaciones":          "observaciones",
+    "FechaAlta":               "01/01/2022",    
+    "FechaModificacion":       "01/01/2022" ,   
+    "IdUsuarioAlta":           "pgimenez", 
+    "IdUsuarioModificacion":   "pgimenez"
+},
+{
+    "IdPersona":              "2",
+    "PerRSoc":                "Juliana Giménez",
+    "Alias":                  "Juli",
+    "Domicilio":             "Tucumán",
+    "DomicilioNro":           "93B",
+    "IdLocalidad":            "2132",
+    "Telefono":               "34127382987",
+    "IdDocumento":            "1",
+    "NroDocumento":           "56376148",
+    "IdIva":                  "1",
+    "IdIngBrutos":            "2",
+    "Observaciones":          "observaciones",
+    "FechaAlta":               "01/01/2022",    
+    "FechaModificacion":       "01/01/2022" ,   
+    "IdUsuarioAlta":           "pgimenez", 
+    "IdUsuarioModificacion":   "pgimenez"
+},{
+    "IdPersona":              "1",
+    "PerRSoc":                "Martina Medina Giménez",
+    "Alias":                  "MArtu",
+    "Domicilio":             "Tucumán",
+    "DomicilioNro":           "93B",
+    "IdLocalidad":            "2132",
+    "Telefono":               "34127382987",
+    "IdDocumento":            "1",
+    "NroDocumento":           "56376148",
+    "IdIva":                  "1",
+    "IdIngBrutos":            "2",
+    "Observaciones":          "observaciones martu",
+    "FechaAlta":               "01/01/2022",    
+    "FechaModificacion":       "01/01/2022" ,   
+    "IdUsuarioAlta":           "pgimenez", 
+    "IdUsuarioModificacion":   "pgimenez"
+}
+
+
+]
